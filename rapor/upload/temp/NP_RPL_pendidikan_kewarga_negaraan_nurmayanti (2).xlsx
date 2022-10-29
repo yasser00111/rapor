@@ -1,0 +1,317 @@
+
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Array and string offset access syntax with curly braces is deprecated</p>
+<p>Filename: Cell/DefaultValueBinder.php</p>
+<p>Line Number: 86</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\laragon\www\rapor\application\third_party\PHP_Excel\PHPExcel\Autoloader.php<br />
+			Line: 82<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\laragon\www\rapor\application\third_party\PHP_Excel\PHPExcel\Autoloader.php<br />
+			Line: 82<br />
+			Function: require			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\laragon\www\rapor\application\third_party\PHP_Excel\PHPExcel\Cell.php<br />
+			Line: 905<br />
+			Function: spl_autoload_call			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\laragon\www\rapor\application\third_party\PHP_Excel\PHPExcel\Cell.php<br />
+			Line: 218<br />
+			Function: getValueBinder			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\laragon\www\rapor\application\third_party\PHP_Excel\PHPExcel\Worksheet.php<br />
+			Line: 1095<br />
+			Function: setValue			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\laragon\www\rapor\application\modules\n_pengetahuan\controllers\N_pengetahuan.php<br />
+			Line: 335<br />
+			Function: setCellValue			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\laragon\www\rapor\index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Array and string offset access syntax with curly braces is deprecated</p>
+<p>Filename: Calculation/Functions.php</p>
+<p>Line Number: 311</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\laragon\www\rapor\application\third_party\PHP_Excel\PHPExcel\Autoloader.php<br />
+			Line: 82<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\laragon\www\rapor\application\third_party\PHP_Excel\PHPExcel\Autoloader.php<br />
+			Line: 82<br />
+			Function: require			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\laragon\www\rapor\application\third_party\PHP_Excel\PHPExcel\Writer\Excel2007.php<br />
+			Line: 205<br />
+			Function: spl_autoload_call			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\laragon\www\rapor\application\modules\n_pengetahuan\controllers\N_pengetahuan.php<br />
+			Line: 584<br />
+			Function: save			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\laragon\www\rapor\index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Array and string offset access syntax with curly braces is deprecated</p>
+<p>Filename: Calculation/Functions.php</p>
+<p>Line Number: 313</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\laragon\www\rapor\application\third_party\PHP_Excel\PHPExcel\Autoloader.php<br />
+			Line: 82<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\laragon\www\rapor\application\third_party\PHP_Excel\PHPExcel\Autoloader.php<br />
+			Line: 82<br />
+			Function: require			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\laragon\www\rapor\application\third_party\PHP_Excel\PHPExcel\Writer\Excel2007.php<br />
+			Line: 205<br />
+			Function: spl_autoload_call			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\laragon\www\rapor\application\modules\n_pengetahuan\controllers\N_pengetahuan.php<br />
+			Line: 584<br />
+			Function: save			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\laragon\www\rapor\index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: 8192</p>
+<p>Message:  Array and string offset access syntax with curly braces is deprecated</p>
+<p>Filename: Calculation/Functions.php</p>
+<p>Line Number: 534</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\laragon\www\rapor\application\third_party\PHP_Excel\PHPExcel\Autoloader.php<br />
+			Line: 82<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\laragon\www\rapor\application\third_party\PHP_Excel\PHPExcel\Autoloader.php<br />
+			Line: 82<br />
+			Function: require			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\laragon\www\rapor\application\third_party\PHP_Excel\PHPExcel\Writer\Excel2007.php<br />
+			Line: 205<br />
+			Function: spl_autoload_call			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\laragon\www\rapor\application\modules\n_pengetahuan\controllers\N_pengetahuan.php<br />
+			Line: 584<br />
+			Function: save			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\laragon\www\rapor\index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div><br />
+<b>Fatal error</b>:  'break' not in the 'loop' or 'switch' context in <b>C:\laragon\www\rapor\application\third_party\PHP_Excel\PHPExcel\Calculation\Functions.php</b> on line <b>581</b><br />
+
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  Cannot modify header information - headers already sent by (output started at C:\laragon\www\rapor\system\core\Exceptions.php:271)</p>
+<p>Filename: core/Common.php</p>
+<p>Line Number: 570</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Compile Error</p>
+<p>Message:  'break' not in the 'loop' or 'switch' context</p>
+<p>Filename: Calculation/Functions.php</p>
+<p>Line Number: 581</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+	
+
+</div>
